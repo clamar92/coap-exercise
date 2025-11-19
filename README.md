@@ -6,7 +6,7 @@ Other versions (e.g., 3.12) are **not supported** and will cause the servers to 
 
 ---
 
-## 📥 1. Clone the Repository Using Visual Studio Code
+## 1. Clone the Repository Using Visual Studio Code
 
 In Visual Studio Code, use **Git Clone Repository** and paste this link:
 
