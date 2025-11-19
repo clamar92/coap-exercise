@@ -6,13 +6,13 @@ Other versions (e.g., 3.12) are **not supported** and will cause the servers to 
 
 ---
 
-## 1. Download the Repository
+## 📥 1. Clone the Repository Using Visual Studio Code
 
-```sh
-git clone https://github.com/clamar92/coap-exercise.git
+In Visual Studio Code, use **Git Clone Repository** and paste this link:
+
 ```
-
-Then open the project folder in **Visual Studio Code**.
+https://github.com/clamar92/coap-exercise.git
+```
 
 ---
 
